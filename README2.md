@@ -23,7 +23,7 @@ The term „database” in the sense of a system for collecting and storing data
 
 ### Do you see this sign:
 
-![image18](../Images/image18.jpg)
+(![image](https://gakko.pjwstk.edu.pl/public/7164/WSI_3.png)
 
 ### Remember where and inform the others.
 
@@ -43,11 +43,11 @@ We can say that one of the important aspects of human history was the way of rec
 
 Clay tablets, cuneiform writing  – 4 000 BC till 4 century
 
-![image94](../Images/image94.png)
+(![image](https://gakko.pjwstk.edu.pl/public/7164/WSI_4.png)
 
 Papyrus, handwriting  – 3 000 BC until the first century
 
-![image28](../Images/image28.png)
+(![image](https://gakko.pjwstk.edu.pl/public/7164/WSI_5.png)
 
 Parchment, handwriting and print  – 3rd century BC till 17th century
 
@@ -59,11 +59,11 @@ Paper  – discovered in China in 8 BC and used until today around the world
 
 Print  – method of duplication of text with a stamp, known for thousands of years. Modern printing is done using a moveable type invented during the medieval times. The zenith of its development falls on the first half of the 20th century.
 
-![image93](../Images/image93.png)
+(![image](https://gakko.pjwstk.edu.pl/public/7164/WSI_6.png)
 
 First modern printing machine  was constructed significantly later (in second half of 19th century) as an aid for handwriting.
 
-![image20](../Images/image20.png)
+![](https://gakko.pjwstk.edu.pl/public/7164/WSI_7.png)
 
 ### … and what was the result of storing this data?
 
@@ -92,7 +92,7 @@ As we can see the beginnings weren’t so easy. But what has the computer brough
 *   The drop in prices of mass storage (tapes, drives, CD) allowed for storing vast amounts of data on very little space and with little cost.
 *   The ability to search through data in relatively short time.
 
-![image55](../Images/image55.png)
+![](https://gakko.pjwstk.edu.pl/public/7164/WSI_8.png)
 
 But along with these possibilities certain challenges appeared. Various data structures were needed for efficient data storage in order to make a full use of the computer. This is the beginning of the databases in the modern meaning.
 
