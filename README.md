@@ -88,7 +88,11 @@ Do you think that the computer is necessary for storing data?
 Yes  
 No  
 
+Of course not – data can be stored using many technologies, not necessarily relying on computers.
+
 Did the concept of data storage appear in the second half of the 20th century?  
 Yes  
 No  
+
+Of course not. Various attempts to store data have always been present in the history of mankind.
 
